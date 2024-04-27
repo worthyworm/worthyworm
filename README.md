@@ -8,4 +8,4 @@
 - ⚡ Fun fact: I have discord nitro
 - 😁 I would be happy to collaborate with anyone
 - 🔭 I’m currently working on **XPass**
-- [![chipi chipi chapa chapa](https://github-readme-stats.vercel.app/api?username=brokenmoony)](https://github.com/anuraghazra/github-readme-stats)
+- [![chipi chipi chapa chapa](https://github-readme-stats.vercel.app/api?username=brokenmoony&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
