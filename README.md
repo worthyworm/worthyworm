@@ -1,5 +1,5 @@
 - # 👋 Hi, I’m @brokenmoony
-- ⏰ I know C++, Python, JS, TS and C#
+- ⏰ I know C++, Python, JS, and C#
 - 👀 I’m interested in projects on Python and C++
 - 🌱 I’m currently learning how to become a pickle
 - 🔎 I’m looking to collaborate on any project
