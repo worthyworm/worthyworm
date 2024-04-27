@@ -10,6 +10,6 @@
 - 🔭 I’m currently working on **XPass**
 ### 📊 Stats:
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=brokenmoony&show_icons=true&theme=tokyonight&hide_border=true" alt="" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brokenmoony&layout=compact&theme=tokyonight&hide_border=true" alt="" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=brokenmoony&show_icons=true&theme=tokyonight&hide_border=true" alt="" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brokenmoon&layout=compact&theme=tokyonight&hide_border=true" alt="" /> |
 | ----------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
 <br/> 
