@@ -1,15 +1,24 @@
-- # 👋 Hi, I’m @brokenmoony
-- ⏰ I know C++, Python, JS, and C#
-- 👀 I’m interested in projects on Python and C++
-- 🌱 I’m currently learning how to become a pickle
-- 🔎 I’m looking to collaborate on any project
-- 💡  My experience : 3 years
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I have discord nitro
-- 😁 I would be happy to collaborate with anyone
-- 🔭 I’m currently working on **XPass**
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
+</p>
+<h2 align="center">
+  I’m @brokenmoony<br>
+  I know C++, Python, JS, and C#<br>
+  I’m interested in projects on Python and C++<br>
+  I’m currently learning how to become a pickle<br>
+  I’m looking to collaborate on any project<br>
+  My experience : 3 years<br>
+  Pronouns: he/him<br>
+  Fun fact: I have discord nitro<br>
+  I would be happy to collaborate with anyone<br>
+  I’m currently working on XPass<br>
+</h2>
 ### 📊 Stats:
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=brokenmoony&show_icons=true&theme=tokyonight&hide_border=true" alt="" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brokenmoony&layout=compact&theme=tokyonight&hide_border=true" alt="" /> |
-| ----------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
-<br/> 
+ <a href="http://www.github.com/TheDevsIsHere"><img src="https://github-readme-stats.vercel.app/api?username=brokenmoony&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="TheDevsIsHere's GitHub stats" /></a>
+   <a href="http://www.github.com/TheDevsIsHere"><img src="https://github-readme-streak-stats.herokuapp.com/?user=brokenmoony&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+  <a href="https://github.com/TheDevsIsHere"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brokenmoony&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" /></a>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
