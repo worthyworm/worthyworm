@@ -11,7 +11,6 @@
   Pronouns: he/him<br>
   Fun fact: I have discord nitro<br>
   I would be happy to collaborate with anyone<br>
-  I’m currently working on XPass<br>
 </h2>
 ### 📊 Stats:
 
