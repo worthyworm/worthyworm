@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
 </p>
 <h2 align="center">
-  I’m @brokenmoony<br>
+  I’m @worthyworm<br>
   I know C++, Python, JS, and C#<br>
   I’m interested in projects on Python and C++<br>
   I’m currently learning how to become a pickle<br>
