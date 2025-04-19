@@ -7,7 +7,7 @@
   I’m interested in projects on Python and C++<br>
   I’m currently learning how to become a pickle<br>
   I’m looking to collaborate on any project<br>
-  My experience : 3 years<br>
+  My experience : 5 years<br>
   Pronouns: he/him<br>
   Fun fact: I have discord nitro<br>
   I would be happy to collaborate with anyone<br>
